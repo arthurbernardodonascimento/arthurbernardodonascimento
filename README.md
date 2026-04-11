@@ -1,55 +1,52 @@
-Hi 👋, I'm Herbert Souza
-Senior Software Engineer | JavaScript & .NET Specialist 📍 Brazil
+# Olá 👋, eu sou Arthur Bernardo
 
-I specialize in building scalable SaaS platforms and high-performance web systems. My focus is on robust architecture, clean code, and engineering solutions that drive real business value.
+🚀 **Estudante de Engenharia de Computação** 🇧🇷 Brasil
 
-Beyond coding, I'm a content creator sharing insights on software development, SaaS architecture, and tech entrepreneurship.
+Atualmente, estou focado em aprofundar meus conhecimentos técnicos, com forte interesse profissional em **Java e C**. Busco entender os fundamentos da computação para construir soluções eficientes e bem estruturadas.
 
-🌐 Where to find me
+### O que estou estudando:
+
+* 💻 Desenvolvimento de software com **Java**.
+* ⚙️ Programação de baixo nível e performance com **C**.
+* 📚 Algoritmos, estruturas de dados e os pilares da Engenharia de Computação.
+
+---
+
+## 🌐 Onde me encontrar
+
 <p align="left">
-<a href="https://github.com/herbertcarnaubadesouza">
-<img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="https://instagram.com/oreidosites">
-<img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.tiktok.com/@oreidosites">
-<img src="https://img.shields.io/badge/TikTok-@OREIDOSITES-000000?style=for-the-badge&logo=tiktok" />
-</a>
-<a href="https://www.youtube.com/@oreidosites">
-<img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
+  <a href="https://github.com/arthurbernardodonascimento">
+    <img src="https://img.shields.io/badge/GitHub-ARTHURBERNARDO-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/arthur-bernardo-do-nascimento-1663942ba/">
+    <img src="https://img.shields.io/badge/LinkedIn-ARTHUR%20BERNARDO-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
-🧠 Expertise
-🏗️ SaaS & High-scale systems: Designing architectures that grow with the business.
+---
 
-⚡ Performance Optimization: Making web systems fast and efficient.
+### 🧠 No que estou me dedicando:
 
-🧩 Clean Architecture: Writing maintainable, testable, and decoupled code.
+* 💻 Desenvolvimento de software com **Java**.
+* ⚙️ Programação de baixo nível e performance com **C**.
+* 📚 Algoritmos, estruturas de dados e os pilares da Engenharia de Computação.
 
-🔐 Security: Implementing secure APIs and robust authentication.
+---
 
-💳 Business Logic: Managing complex payment flows and subscription models.
+## 🛠️ Ferramentas
 
-📊 Data & Analytics: Building insightful dashboards and integrations.
-
-🎓 Mentorship: Helping developers level up their technical skills.
-
-🛠️ Tech Stack
-Frontend
-
-Backend
-
-DevOps & Tools
-
-📊 GitHub Stats
 <p align="left">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
-🚀 Philosophy
-"Code is more than just solving problems; it's about building scalable, sustainable solutions that deliver real-world value."
+---
 
-⭐ If you like my work, feel free to star my repositories! 🤝 Open to collaborations, partnerships, and innovative ideas.
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arthurbernardodonascimento&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbernardodonascimento&layout=compact&theme=tokyonight" />
+</p>
+
+---
