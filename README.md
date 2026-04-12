@@ -7,9 +7,6 @@ Atualmente, estou focado em aprofundar meus conhecimentos técnicos, com forte i
 ### O que estou estudando:
 
 * 💻 Desenvolvimento de software com **Java**.
-* ⚙️ Programação de baixo nível e performance com **C**.
-* 📚 Algoritmos, estruturas de dados e os pilares da Engenharia de Computação.
-
 ---
 
 ## 🌐 Onde me encontrar
