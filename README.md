@@ -6,7 +6,7 @@ Atualmente, estou focado em aprofundar meus conhecimentos técnicos, com forte i
 
 ### O que estou estudando:
 
-* 💻 Desenvolvimento de software com **Java**.
+* 💻 Inteligência Artificial e Machine Learning.
 ---
 
 ## 🌐 Onde me encontrar
