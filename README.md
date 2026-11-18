@@ -1,23 +1,22 @@
 
 # Olá, eu sou Arthur Bernardo! 👋
 
-🚀 **Estudante de Engenharia de Computação | Desenvolvedor | Brasil 🇧🇷**
+🚀 **Estudante de Engenharia de Computação | Brasil 🇧🇷**
 
-Apaixonado por tecnologia, programação e inovação. Atualmente, estou aprofundando meus conhecimentos em **Java, Python e C**, buscando desenvolver soluções eficientes, escaláveis e bem estruturadas.
+Entusiasta de tecnologia, ciência e inovação. Atualmente, estou aprofundando meus conhecimentos em **Java, C e Python**, buscando compreender os fundamentos da computação e desenvolver soluções eficientes e bem estruturadas.
 
-Tenho interesse em Inteligência Artificial, desenvolvimento de software, arquitetura de computadores e resolução de problemas computacionais.
+Tenho especial interesse em Inteligência Artificial, Engenharia de Software e Arquitetura de Computadores.
 
 ---
 
 ## 🧠 Áreas de interesse e estudo
 
-- 🤖 Inteligência Artificial e Machine Learning.
-- ☕ Desenvolvimento de software com Java.
-- 🐍 Python, automação e computação aplicada.
-- ⚙️ Programação de baixo nível e desempenho com C.
+- 🤖 Inteligência Artificial e Machine Learning com **Python**.
+- ☕ Desenvolvimento de software com **Java**.
+- ⚙️ Programação de baixo nível e desempenho com **C**.
 - 📚 Algoritmos e estruturas de dados.
-- 🖥️ Arquitetura e Engenharia de Computação.
-- 🧩 Lógica de programação e resolução de problemas.
+- 🖥️ Arquitetura de computadores.
+- 🧩 Lógica e resolução de problemas computacionais.
 
 ---
 
@@ -25,10 +24,9 @@ Tenho interesse em Inteligência Artificial, desenvolvimento de software, arquit
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -44,19 +42,17 @@ Tenho interesse em Inteligência Artificial, desenvolvimento de software, arquit
 
 ## 🎯 Objetivos
 
-- Aprimorar meus conhecimentos em Engenharia de Computação.
-- Desenvolver projetos nas áreas de software e Inteligência Artificial.
-- Aplicar conhecimentos teóricos na solução de problemas reais.
-- Evoluir continuamente como desenvolvedor e engenheiro.
+- Aprofundar meus conhecimentos em Engenharia de Computação.
+- Desenvolver projetos de Inteligência Artificial e Machine Learning.
+- Construir sistemas eficientes e de alto desempenho.
+- Aplicar conhecimentos científicos e tecnológicos na resolução de problemas reais.
+- Evoluir continuamente como engenheiro e desenvolvedor.
 
 ---
 
 ## 🌐 Conecte-se comigo
 
 <p align="left">
-  <a href="https://github.com/arthurbernardodonascimento">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/arthur-bernardo-do-nascimento-1663942ba/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -65,6 +61,5 @@ Tenho interesse em Inteligência Artificial, desenvolvimento de software, arquit
 ---
 
 <p align="center">
-  <i>Transformando conhecimento em código e ideias em soluções.</i>
+  <i>Ciência, engenharia e tecnologia em constante evolução.</i>
 </p>
-
